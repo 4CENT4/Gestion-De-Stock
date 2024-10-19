@@ -37,4 +37,3 @@ mongoose
     console.error("Connection failed:", error);
   });
 
-//sidek ena
